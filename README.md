@@ -58,19 +58,13 @@ A aplicação foi construída com foco em simplicidade, organização e experiê
 
 ---
 
-## 💡 Objetivo
+## 💡 Aprendizados
 
-* Consolidar conhecimentos em HTML e CSS
-* Criar uma presença profissional online
-* Servir como base para evolução futura com JavaScript e backend
-
----
-
-## 📈 Próximos passos
-
-* Adicionar interatividade com JavaScript
-* Integrar com backend
-* Melhorar animações e experiência do usuário
+* Criação de estrutura semântica para páginas web
+* Desenvolvimento de layouts responsivos e adaptáveis
+* Organização de seções para uma navegação clara
+* Aplicação de estilização com CSS e variáveis de cores
+* Planejamento e hierarquia visual de conteúdo
 
 ---
 
