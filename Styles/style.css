@@ -152,7 +152,7 @@ body {
     transform: scale(1.10);
 }
 
-.estudos__imagem {
+.estudos__imagem, .sobre__imagem {
     width: 36%;
     position: sticky;
     top: 1rem;
